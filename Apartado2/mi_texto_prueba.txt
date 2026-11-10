@@ -1,0 +1,7 @@
+¡Hola Mundo! Este es un texto de prueba.
+El mundo es muy grande, pero este texto es pequeño.
+Hola de nuevo, mundo.
+Actualmente estoy inmerso en el Curso de Especialización en Inteligencia Artificial y Big Data.
+Estamos aprendiendo Python a fondo en la asignatura de PIA.
+Un saludo para los profesores y compañeros del IES Augustóbriga en Navalmoral de la Mata.
+Pronto estaremos dominando los modelos de datos y la inteligencia artificial.
