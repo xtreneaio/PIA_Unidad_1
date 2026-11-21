@@ -19,13 +19,11 @@ def analizar_listas(lista1, lista2):
     # Es decir: Los números "exclusivos" de cada grupo, quitando los que comparten.
     exclusivos = conjunto1.symmetric_difference(conjunto2)
     
-    # 5. Creamos el diccionario con los resultados
-    # Nota: Uso list() para volver a convertirlos en listas normales antes de
-    # guardarlos. Así al imprimirlo se verán con corchetes [] y queda más limpio.
+    # 5. Creamos el diccionario devolviendo directamente los conjuntos (sets)
     resultados = {
-        "interseccion": list(comunes),
-        "union": list(todos_juntos),
-        "diferencia_simetrica": list(exclusivos)
+        "interseccion": comunes,
+        "union": todos_juntos,
+        "diferencia_simetrica": exclusivos
     }
     
     return resultados
