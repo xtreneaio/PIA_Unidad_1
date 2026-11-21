@@ -1,10 +1,10 @@
 # Apartado 3: Competición en Kaggle
 
-Documentación y datos descargados de la competición activa **"The Pokémon Company - PTCG AI Battle Challenge Playground"** en Kaggle[cite: 5].
+Documentación y datos descargados de la competición activa **"The Pokémon Company - PTCG AI Battle Challenge Playground"** en Kaggle.
 
 ## 📦 Contenido del dataset (`the-pokemon-company-ptcg-ai-battle-challenge-playground.zip`)
 
-* **Tamaño comprimido:** ~2,79 MB (60 archivos, ~8,54 MB descomprimidos)[cite: 20].
+* **Tamaño comprimido:** ~2,79 MB (60 archivos, ~8,54 MB descomprimidos).
 
 ### Estructura principal del archivo
 ```text
